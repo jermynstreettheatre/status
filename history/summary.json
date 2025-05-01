@@ -4,19 +4,19 @@
     "url": "https://assets.technical.jermynstreettheatre.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/assets.technical.jermynstreettheatre.co.uk.ico",
     "slug": "gavin",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2068,
-    "timeDay": 2215,
-    "timeWeek": 2068,
-    "timeMonth": 2068,
-    "timeYear": 2068,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2139,
+    "timeDay": 2300,
+    "timeWeek": 2139,
+    "timeMonth": 2139,
+    "timeYear": 2139,
     "dailyMinutesDown": {
-      "2025-05-01": 1
+      "2025-05-01": 3
     }
   },
   {
@@ -115,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.ui.com.ico",
     "slug": "uni-fi-remote-access",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 299,
     "timeWeek": 299,
     "timeMonth": 299,
     "timeYear": 299,
-    "dailyMinutesDown": {
-      "2025-05-01": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google Workspace",
@@ -153,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.dropbox.com.ico",
     "slug": "dropbox",
     "status": "degraded",
-    "uptime": "92.29%",
-    "uptimeDay": "92.29%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "92.29%",
-    "uptimeYear": "92.29%",
+    "uptime": "91.93%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "91.93%",
+    "uptimeYear": "91.93%",
     "time": 263,
     "timeDay": 263,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-05-01": 58
+      "2025-05-01": 61
     }
   },
   {
@@ -191,19 +189,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.worldpay.com.ico",
     "slug": "worldpay",
     "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 341,
     "timeDay": 341,
     "timeWeek": 341,
     "timeMonth": 341,
     "timeYear": 341,
-    "dailyMinutesDown": {
-      "2025-05-01": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nimvelo",
@@ -211,18 +207,16 @@
     "icon": "https://www.nimvelo.com/wp-content/uploads/2019/03/cropped-Nimvelo-Fav-50x50.png",
     "slug": "nimvelo",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 864,
     "timeDay": 864,
     "timeWeek": 864,
     "timeMonth": 864,
     "timeYear": 864,
-    "dailyMinutesDown": {
-      "2025-05-01": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
