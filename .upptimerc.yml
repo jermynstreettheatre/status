@@ -64,7 +64,7 @@ status-website:
   themeUrl: https://status.technical.jermynstreettheatre.co.uk/custom-theme.css
   links:
   - rel: stylesheet
-    href: /custom-style.css
+    href: https://status.technical.jermynstreettheatre.co.uk/custom-style.css
   introTitle: "JST Status Dashboard"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
