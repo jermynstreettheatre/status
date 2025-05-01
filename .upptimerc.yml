@@ -59,7 +59,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://status.technical.jermynstreettheatre.co.uk/jst-purple-logo.png
   favicon: https://status.technical.jermynstreettheatre.co.uk/jst-white-purple-logo.png
-  robotsText: "User-agent: * \n Disallow: /"
+  robotsText: "User-agent: *\nDisallow: /"
   name: JST Status
   themeUrl: https://status.technical.jermynstreettheatre.co.uk/custom-theme.css
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
