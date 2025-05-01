@@ -112,18 +112,20 @@
     "url": "https://status.ui.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.ui.com.ico",
     "slug": "uni-fi-remote-access",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 293,
+    "timeDay": 293,
+    "timeWeek": 293,
+    "timeMonth": 293,
+    "timeYear": 293,
+    "dailyMinutesDown": {
+      "2025-05-01": 0
+    }
   },
   {
     "name": "Google Workspace",
@@ -149,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.dropbox.com.ico",
     "slug": "dropbox",
     "status": "degraded",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "93.22%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "93.22%",
     "time": 266,
     "timeDay": 266,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-05-01": 0
+      "2025-05-01": 50
     }
   },
   {
@@ -186,35 +188,39 @@
     "url": "https://status.worldpay.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.worldpay.com.ico",
     "slug": "worldpay",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 345,
-    "timeWeek": 345,
-    "timeMonth": 345,
-    "timeYear": 345,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2025-05-01": 0
+    }
   },
   {
     "name": "Nimvelo",
     "url": "http://status.nimvelo.com",
     "icon": "https://www.nimvelo.com/wp-content/uploads/2019/03/cropped-Nimvelo-Fav-50x50.png",
     "slug": "nimvelo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 873,
-    "timeWeek": 873,
-    "timeMonth": 873,
-    "timeYear": 873,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 858,
+    "timeDay": 858,
+    "timeWeek": 858,
+    "timeMonth": 858,
+    "timeYear": 858,
+    "dailyMinutesDown": {
+      "2025-05-01": 0
+    }
   }
 ]
