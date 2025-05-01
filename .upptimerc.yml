@@ -10,7 +10,7 @@ sites:
       - edwardcallow
   - name: Vaultwarden
     url: https://vault.technical.jermynstreettheatre.co.uk
-    __dangerous__body_down_if_text_missing: "Email address"
+    # __dangerous__body_down_if_text_missing: "Email address"
     assignees:
       - edwardcallow
   - name: Email IMAP
