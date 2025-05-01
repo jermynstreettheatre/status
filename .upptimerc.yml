@@ -67,7 +67,7 @@ status-website:
     href: https://status.technical.jermynstreettheatre.co.uk/custom-style.css
   css: ".logo.svelte-a08hsz div { display: none }"
   introTitle: "JST Status Dashboard"
-  introMessage: Please bear in mind that the status of external services is based on the provider’s own status page. This may not be automated.
+  introMessage: Please bear in mind that the status of external services is based on the provider’s own status page. These may not be automated.
   navbar:
     - title: Status
       href: /
