@@ -1,7 +1,7 @@
 url: https://business.bt.com/app/service-status/service-status-result/$BT_CLOUDVOICE_ACCOUNT
 status: degraded
 code: 200
-responseTime: 3272
-lastUpdated: 2025-05-01T11:06:42.248Z
+responseTime: 584
+lastUpdated: 2025-05-01T11:41:21.190Z
 startTime: 2025-05-01T10:35:53.048Z
 generator: Upptime <https://github.com/upptime/upptime>
