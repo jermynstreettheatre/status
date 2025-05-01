@@ -41,15 +41,15 @@ sites:
     url: https://status-page-internal.soldocloud.net
     icon: https://www.soldo.com/wp-content/uploads/2024/11/cropped-Soldo_SQ_Favicon_512-1-32x32.png
     __dangerous__body_degraded_if_text_missing: "All systems are operational"
+  - name: Worldpay
+    url: https://status.worldpay.com
+    __dangerous__body_degraded_if_text_missing: "All Systems Operational"
   # - name: BT Cloud Voice
-    # url: https://business.bt.com/app/service-status/service-status-result/CV10381867
+    # url: https://business.bt.com/app/service-status/service-status-result/$BT_CLOUDVOICE_ACCOUNT
     # __dangerous__body_degraded_if_text_missing: "GOOD SERVICE"
   - name: Nimvelo
     url: http://status.nimvelo.com
     icon: https://www.nimvelo.com/wp-content/uploads/2019/03/cropped-Nimvelo-Fav-50x50.png
-    __dangerous__body_degraded_if_text_missing: "All Systems Operational"
-  - name: Worldpay
-    url: https://status.worldpay.com
     __dangerous__body_degraded_if_text_missing: "All Systems Operational"
 
 status-website:
@@ -62,7 +62,10 @@ status-website:
   robotsText: "User-agent: *\nDisallow: /"
   name: JST Status
   themeUrl: https://status.technical.jermynstreettheatre.co.uk/custom-theme.css
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  links:
+  - rel: stylesheet
+    href: /custom-style.css
+  introTitle: "JST Status Dashboard"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
