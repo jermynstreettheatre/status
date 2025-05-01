@@ -3,14 +3,14 @@ owner: jermynstreettheatre # Your GitHub organization or username, where this re
 repo: status # The name of this repository
 
 sites:
-  - name: Public website
-    url: https://www.jermynstreettheatre.co.uk
   - name: GAVIN
     url: https://assets.technical.jermynstreettheatre.co.uk
+    __dangerous__body_down_if_text_missing: "Your username is your name without spaces"
     assignees:
       - edwardcallow
   - name: Vaultwarden
     url: https://vault.technical.jermynstreettheatre.co.uk
+    __dangerous__body_down_if_text_missing: "Log in or create"
     assignees:
       - edwardcallow
   - name: Email IMAP
@@ -25,6 +25,27 @@ sites:
     check: tcp-ping
     url: mail.jermynstreettheatre.co.uk
     port: 465
+  - name: Public website
+    url: https://www.jermynstreettheatre.co.uk
+    __dangerous__body_down_if_text_missing: "What's On"
+  - name: UniFi remote access
+    url: https://status.ui.com
+    __dangerous__body_degraded_if_text_missing: "All Systems Operational"
+  - name: Google Workspace
+    url: https://www.google.com/appsstatus/dashboard
+    __dangerous__body_degraded_if_text_missing: "No incidents"
+  - name: Dropbox
+    url: https://status.dropbox.com
+    __dangerous__body_degraded_if_text_missing: "All Systems Operational"
+  - name: Soldo
+    url: https://status-page-internal.soldocloud.net
+    __dangerous__body_degraded_if_text_missing: "All systems are operational"
+  - name: BT CloudVoice
+    url: https://business.bt.com/app/service-status/service-status-result/CV10381867
+    __dangerous__body_degraded_if_text_missing: "Good service"
+  - name: Nimvelo
+    url: http://status.nimvelo.com
+    __dangerous__body_degraded_if_text_missing: "All Systems Operational"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
