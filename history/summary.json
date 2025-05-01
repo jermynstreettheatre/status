@@ -4,19 +4,19 @@
     "url": "https://assets.technical.jermynstreettheatre.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/assets.technical.jermynstreettheatre.co.uk.ico",
     "slug": "gavin",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1970,
-    "timeDay": 2115,
-    "timeWeek": 1970,
-    "timeMonth": 1970,
-    "timeYear": 1970,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2061,
+    "timeDay": 2225,
+    "timeWeek": 2061,
+    "timeMonth": 2061,
+    "timeYear": 2061,
     "dailyMinutesDown": {
-      "2025-05-01": 0
+      "2025-05-01": 1
     }
   },
   {
