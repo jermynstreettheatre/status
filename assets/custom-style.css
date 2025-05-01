@@ -9,7 +9,7 @@
 	font-family: 'Flama';
 	font-style: normal;
 	font-weight: 300;
-	src: url('fonts/Flama-Book,woff') format('woff');
+	src: url('fonts/Flama-Book.woff') format('woff');
 }
 
 @font-face {
@@ -36,4 +36,8 @@ h1 {
 
 .logo.svelte-a08hsz div{
   display:none;
+}
+
+.logo.svelte-a08hsz img.svelte-a08hsz{
+  height: 80px;
 }
