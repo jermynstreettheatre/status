@@ -22,7 +22,14 @@
 @font-face {
 	font-family: 'Flama';
 	font-style: normal;
-	font-weight: 500, bold;
+	font-weight: 500;
+	src: url('fonts/Flama-Medium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Flama';
+	font-style: normal;
+	font-weight: bold;
 	src: url('fonts/Flama-Medium.woff') format('woff');
 }
 
@@ -37,11 +44,3 @@ h1 {
 
 h4 {
   font-weight: 500;
-
-.logo.svelte-a08hsz div {
-  display: none !important;
-}
-
-.logo.svelte-a08hsz img.svelte-a08hsz {
-  height: 80px;
-}
