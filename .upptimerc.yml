@@ -42,7 +42,7 @@ sites:
     icon: https://www.soldo.com/wp-content/uploads/2024/11/cropped-Soldo_SQ_Favicon_512-1-32x32.png
     __dangerous__body_degraded_if_text_missing: "All systems are operational"
   - name: BT CloudVoice
-    url: https://business.bt.com/app/service-status/service-status-result/$BT_CLOUDVOICE_ACCOUNT
+    url: https://business.bt.com/app/service-status/service-status-result/CV10381867
     __dangerous__body_degraded_if_text_missing: "Good service"
   - name: Nimvelo
     url: http://status.nimvelo.com
