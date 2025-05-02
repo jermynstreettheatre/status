@@ -40,7 +40,7 @@ sites:
   - name: Hostinger
     url: https://statuspage.hostinger.com
     __dangerous__body_degraded_if_text_missing: "All Systems Operational"
-    __dangerous__body_down_if_text_missing: "Hostinger cPanel Hosting <span class=\"component-status tool\"title=\"Groups take on the status of their most degraded child component or service. Click to see the status of the individual children.\">Operational"
+    # __dangerous__body_down_if_text_missing: "Hostinger cPanel Hosting <span class=\"component-status tool\"title=\"Groups take on the status of their most degraded child component or service. Click to see the status of the individual children.\">Operational"
   - name: Soldo
     url: https://status-page-internal.soldocloud.net
     icon: https://www.soldo.com/wp-content/uploads/2024/11/cropped-Soldo_SQ_Favicon_512-1-32x32.png
