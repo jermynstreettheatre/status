@@ -1,7 +1,7 @@
 url: https://status.worldpay.com
-status: up
-code: 200
-responseTime: 389
-lastUpdated: 2025-05-07T11:28:58.853Z
+status: degraded
+code: 405
+responseTime: 105
+lastUpdated: 2025-05-07T19:38:57.568Z
 startTime: 2025-05-01T11:06:43.544Z
 generator: Upptime <https://github.com/upptime/upptime>
