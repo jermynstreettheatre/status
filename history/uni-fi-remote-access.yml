@@ -1,7 +1,7 @@
 url: https://status.ui.com
-status: degraded
-code: 405
-responseTime: 63
-lastUpdated: 2025-05-07T19:38:50.050Z
+status: up
+code: 200
+responseTime: 359
+lastUpdated: 2025-05-07T19:46:27.969Z
 startTime: 2025-05-01T10:35:49.577Z
 generator: Upptime <https://github.com/upptime/upptime>
