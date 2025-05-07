@@ -1,7 +1,7 @@
 url: https://status-page-internal.soldocloud.net
-status: up
+status: degraded
 code: 200
-responseTime: 577
-lastUpdated: 2025-05-06T23:04:43.817Z
+responseTime: 623
+lastUpdated: 2025-05-07T09:35:27.526Z
 startTime: 2025-05-01T10:35:51.850Z
 generator: Upptime <https://github.com/upptime/upptime>
