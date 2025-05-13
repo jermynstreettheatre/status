@@ -1,7 +1,7 @@
 url: http://status.nimvelo.com
-status: degraded
-code: 405
-responseTime: 666
-lastUpdated: 2025-05-13T23:31:16.023Z
+status: up
+code: 200
+responseTime: 788
+lastUpdated: 2025-05-13T23:40:05.161Z
 startTime: 2025-05-01T10:35:58.407Z
 generator: Upptime <https://github.com/upptime/upptime>
