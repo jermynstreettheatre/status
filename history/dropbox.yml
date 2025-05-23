@@ -1,7 +1,7 @@
 url: https://status.dropbox.com
-status: up
+status: degraded
 code: 200
-responseTime: 258
-lastUpdated: 2025-05-22T23:04:44.153Z
+responseTime: 156
+lastUpdated: 2025-05-23T19:38:09.078Z
 startTime: 2025-05-01T10:35:50.951Z
 generator: Upptime <https://github.com/upptime/upptime>
