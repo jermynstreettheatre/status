@@ -1,7 +1,7 @@
 url: https://www.google.com/appsstatus/dashboard
-status: up
+status: degraded
 code: 200
-responseTime: 157
-lastUpdated: 2025-06-09T23:04:39.321Z
+responseTime: 66
+lastUpdated: 2025-06-09T23:31:16.696Z
 startTime: 2025-05-01T10:35:50.356Z
 generator: Upptime <https://github.com/upptime/upptime>
