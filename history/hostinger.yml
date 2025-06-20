@@ -1,7 +1,7 @@
 url: https://statuspage.hostinger.com
-status: up
+status: degraded
 code: 200
-responseTime: 331
-lastUpdated: 2025-06-20T06:27:23.087Z
+responseTime: 431
+lastUpdated: 2025-06-20T12:14:28.829Z
 startTime: 2025-05-02T10:26:15.116Z
 generator: Upptime <https://github.com/upptime/upptime>
